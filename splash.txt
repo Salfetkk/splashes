@@ -3,8 +3,9 @@ cat ~/cat!
 This is a home directory!
 The cup of catppuccin!
 Proprietary IDE!
-Catppuccin mocha!
+Catppuccin!
 Gruvbox!
+Nord!
 3.1415926535...!
 We need fast VPN!
 Line number 10!
@@ -36,5 +37,5 @@ Wayland!
 Xorg!
 alias pet="touch" && pet cat.txt
 Compiling!
-95°C of CPU!
 Line number 40!
+95°C of CPU!
