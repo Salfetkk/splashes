@@ -1,0 +1,40 @@
+I use arch btw!
+cat ~/cat!
+This is a home directory!
+The cup of catppuccin!
+Proprietary IDE!
+Catppuccin mocha!
+Gruvbox!
+3.1415926535...!
+We need fast VPN!
+Line number 10!
+Hosting minecraft server!
+Eight hours of music listening!
+Vim!
+Neovim!
+VSCode!
+HTML!
+CSS!
+Javascript!
+The C programming language!
+Line number 20!
+Python!
+Conflicting packages!
+CLI!
+GUI?!
+Ricing WM with this one!
+shuf -n 1 ~/splash!
+Web-design!
+Hiii!!!
+Now with colors!
+Line number 30!
+They're afraid of the terminal, lol!
+Firefox!
+Chromium!
+touch grass.c
+Wayland!
+Xorg!
+alias pet="touch" && pet cat.txt
+Compiling!
+95°C of CPU!
+Line number 40!
