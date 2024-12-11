@@ -6,6 +6,10 @@ splash -  just a random funny phrase.  (inspired by splashes from minecraft main
 
 This is a splash file that you can freely use for your own purposes or add your own splash!
 
+# How to add splash?
+
+Just add new line to splash file and do pull request! 💻
+
 # Requirements for splash:
 
 1. Must end with an exclamation point ❗
